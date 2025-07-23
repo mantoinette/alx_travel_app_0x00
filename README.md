@@ -14,3 +14,9 @@ Run the seed command:
 ```bash
 python manage.py seed
 # ALX Travel App 0x00
+Travel
+listings
+bookings
+and
+reviews
+API.
